@@ -5,7 +5,7 @@
         "Punchline": "A smartphone, built for you.",
         "Description": "An in-game smartphone that puts everything you do into a single window: one device, endless things to do.",
         "InternalName": "Aetherphone",
-        "AssemblyVersion": "1.0.0.9",
+        "AssemblyVersion": "1.0.1.2",
         "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone",
         "ApplicableVersion": "any",
         "Tags": [
@@ -28,7 +28,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/Aetherphone/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/Aetherphone/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1787559740"
+        "LastUpdate": "1787725390"
     },
     {
         "Author": "Sachimi",
