@@ -1,36 +1,5 @@
 [
     {
-        "Author": "XeldarAlz",
-        "Name": "Aetherphone",
-        "Punchline": "A smartphone, built for you.",
-        "Description": "An in-game smartphone that puts everything you do into a single window: one device, endless things to do.",
-        "InternalName": "Aetherphone",
-        "AssemblyVersion": "1.0.1.2",
-        "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "phone",
-            "aether",
-            "aetherphone",
-            "messages",
-            "social",
-            "ui",
-            "quality of life",
-            "device",
-            "call"
-        ],
-        "DalamudApiLevel": 15,
-        "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/Aetherphone/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/Aetherphone/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/Aetherphone/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1787725390"
-    },
-    {
         "Author": "Sachimi",
         "Name": "Nintendo Pro Bridge",
         "Punchline": "Nintendo Pro controller for FFXIV\n\u8ba9\u6700\u7ec8\u5e7b\u60f314\u652f\u6301SwitchPro\u624b\u67c4",
